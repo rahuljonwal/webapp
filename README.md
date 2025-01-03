@@ -6,7 +6,7 @@ By default accessing to the webpage you should be able to see
 
 ```text
 Hello! Anonymous!
-Greeting!
+Lets test it!
 ```
 
 You can change `Anonymous` by setting the build args (only at static page)
